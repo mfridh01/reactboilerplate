@@ -1,4 +1,9 @@
 React redux boilerplate
-----------
+---
 
-Stuff här sen.
+Setup
+---
+
+````
+npm install
+``
