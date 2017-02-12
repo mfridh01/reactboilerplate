@@ -11,7 +11,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mikael Fridh",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.21.0",
